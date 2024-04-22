@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "redis": "^4.6.13",
+    "redis-parser": "^3.0.0"
+  },
+  "name": "redis-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Salunke",
+  "license": "ISC",
+  "description": ""
+}
